@@ -7,3 +7,5 @@ My personal writing archive: monthly essays, photo logs and a few separate unive
 The whole site is one file, `index.html`. Open it in any browser, on a phone or a laptop. The corner button switches between seven looks: typewriter, old web, clean letter, journal, plain text, magazine and scrapbook.
 
 Writing © Maisie. Please don't reproduce the essays without asking.
+
+Live at https://maisiecu-web.github.io/writing-archive/
